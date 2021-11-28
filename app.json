@@ -8,7 +8,7 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/DemonGirl",
+    "website": "https://t.me/DemonGirlUpdate",
     "repository": "https://github.com/DarkSkull93/DemonGirl",
     "success_url": "https://github.com/DarkSkull93",
     "env": {
@@ -47,7 +47,7 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "DemonGirl"
+            "value": "DemonGirlSupport"
         },
         "DURATION_LIMIT": {
             "description": "then fill the duration limit here",
@@ -57,12 +57,12 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel then fill the channel username here without ",
             "required": true,
-            "value": "DemonGirl"
+            "value": "DemonGirlUpdate"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "DemonGirl"
+            "value": "DarkSkull93"
         },
         "IMG_1": {
             "description": "fill with your link to a photo you like",
