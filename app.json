@@ -67,22 +67,22 @@
         "IMG_1": {
             "description": "fill with your link to a photo you like",
             "required": true,
-            "value": "https://telegra.ph/file/a381b439e2bf6c61703f9.png"
+            "value": "https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg"
         },
         "IMG_2": {
             "description": "fill with your link to a photo you like",
             "required": true,
-            "value": "https://telegra.ph/file/a381b439e2bf6c61703f9.png"
+            "value": "https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg"
         },
         "IMG_3": {
             "description": "fill with your link to a photo you like",
             "required": true,
-            "value": "https://telegra.ph/file/a381b439e2bf6c61703f9.png"
+            "value": "https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg"
         },
         "ALIVE_IMG": {
             "description": "fill with your link to a photo you like",
             "required": true,
-            "value": "https://telegra.ph/file/a381b439e2bf6c61703f9.png"
+            "value": "https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
