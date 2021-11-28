@@ -14,7 +14,7 @@
   
   #### 🧪 ɢᴇᴛ sᴇssɪᴏɴ ɴᴀᴍᴇ ғʀᴏᴍ ʙᴇʟᴏᴡ:
 
-  [![GᴇɴᴇʀᴀᴛᴇSᴛʀɪɴɢ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@DarkSkull93/DemonGirl#main.py) ``Pyrogram``
+  [![GᴇɴᴇʀᴀᴛᴇSᴛʀɪɴɢ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Shavin77/sessiongen#main.py) ``Pyrogram``
 
 
 
