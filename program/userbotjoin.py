@@ -32,7 +32,7 @@ async def join_chat(c: Client, m: Message):
                 can_manage_voice_chats=True
             )
             return await user.send_message(chat_id, "✅ Userbot already in chat")
-        return await user.send_message(chat_id, "✅ userbot already in chat")
+        return await user.send_message(chat_id, "✅ Userbot already in chat")
 
 @Client.on_message(command(["userbotleave",
                             f"leave@{BOT_USERNAME}"]) & filters.group & ~filters.edited
