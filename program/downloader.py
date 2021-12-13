@@ -52,7 +52,7 @@ def song(_, message):
         m.edit("❌ song not found.\n\nplease give a valid song name.")
         print(str(e))
         return
-    m.edit("📥 downloading file...")
+    m.edit("📥 Downloading file...")
     try:
         with yt_dlp.YoutubeDL(ydl_ops) as ydl:
             info_dict = ydl.extract_info(link, download=False)
