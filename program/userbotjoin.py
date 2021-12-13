@@ -49,7 +49,7 @@ async def leave_chat(_, m: Message):
     except UserNotParticipant:
         return await _.send_message(
             chat_id,
-            "❌ userbot already leave chat",
+            "❌ Userbot already leave chat",
         )
 
 
